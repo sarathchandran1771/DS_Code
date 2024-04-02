@@ -54,4 +54,6 @@ myGraph.addEdge("A", "C")
 myGraph.addEdge("A", "D")
 myGraph.addEdge("B", "D")
 myGraph.addEdge("C", "D")
+myGraph.removeEdge("C", "D")
+myGraph.removeVertex("D")
 myGraph
